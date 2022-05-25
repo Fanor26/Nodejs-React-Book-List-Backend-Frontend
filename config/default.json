@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://fanor1990:fanor1990@cluster0.zcdns.mongodb.net/Escuelitas?retryWrites=true&w=majority"
+  }
