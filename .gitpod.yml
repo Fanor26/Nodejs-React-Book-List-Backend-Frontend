@@ -1,5 +1,5 @@
 tasks:
-  - init: cd client/ && npm install  && npm run build
+  - init: npm install  && npm run build
     command: npm run dev
 
 ports:
